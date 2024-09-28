@@ -1,0 +1,7 @@
+project_id: oomlout_oobb_tool_scale_70_mm_width_120_mm_height_40_mm_depth_200_gram_capacity_aliexpress_scale
+project_name: Oomlout Oobb Tool Scale 70 Mm Width 120 Mm Height 40 Mm Depth 200 Gram
+  Capacity Aliexpress Scale
+project_repo: https://github.com/oomlout/oomlout_oobb_tool_scale_70_mm_width_120_mm_height_40_mm_depth_200_gram_capacity_aliexpress_scale
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
